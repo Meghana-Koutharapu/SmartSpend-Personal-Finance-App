@@ -33,6 +33,20 @@ https://www.figma.com/proto/oRn2ADDtkFiflGWMpfL3s6/SmartSpend-%E2%80%93-Personal
 ### Financial Goals
 ![Financial Goals](screenshots/goals.png)
 
+## Project Overview
+
+SmartSpend is a personal finance mobile app concept that helps users
+track their income, expenses, transactions, spending patterns and
+financial goals through a simple and user-friendly interface.
+
+## Prototype Flow
+
+Login → Create Account → Home Dashboard → Add Expense → Transactions
+
+Home Dashboard → Analytics
+Home Dashboard → Profile
+Home Dashboard → Financial Goals
+
 ## Tools Used
 
 - Figma
