@@ -22,6 +22,17 @@ Designed and prototyped using Figma.
 
 https://www.figma.com/proto/oRn2ADDtkFiflGWMpfL3s6/SmartSpend-%E2%80%93-Personal-Finance-App?node-id=0-1
 
+## Screenshots
+
+### Analytics
+![Spending Analytics](screenshots/analytics.png)
+
+### Profile
+![Profile](screenshots/profile.png)
+
+### Financial Goals
+![Financial Goals](screenshots/goals.png)
+
 ## Tools Used
 
 - Figma
